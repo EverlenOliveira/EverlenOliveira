@@ -3,11 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white=qgis" height="60" alt="qgis logo" />
-  <img src="https://skillicons.dev/icons?i=arcgis" height="60" alt="arcgis logo" />
-  <img src="https://skillicons.dev/icons?i=googleearth" height="60" alt="google earth engine logo" />
-  <img src="https://skillicons.dev/icons?i=excel" height="60" alt="excel logo" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" height="60" alt="Python logo" />
+  <img src="https://img.icons8.com/color/48/000000/qgis.png" height="60" alt="QGIS logo" />
+  <img src="https://img.icons8.com/color/48/000000/arcgis.png" height="60" alt="ArcGIS logo" />
+  <img src="https://img.icons8.com/color/48/000000/google-earth.png" height="60" alt="Google Earth Engine logo" />
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" height="60" alt="Excel logo" />
 </div>
 
 ###
@@ -15,8 +15,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="oevasousa@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/everlen-luciana-oliveira-de-sousa-271940206?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:oevasousa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/eva_oliveer/profilecard/?igsh=MWZocTZ3ZmNsM256aw==" target="_blank">
