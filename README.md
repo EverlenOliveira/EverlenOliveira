@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" height="60" alt="Python logo" />
-  <img src="https://img.icons8.com/color/48/000000/qgis.png" height="60" alt="QGIS logo" />
-  <img src="https://img.icons8.com/color/48/000000/arcgis.png" height="60" alt="ArcGIS logo" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" height="60" alt="QGIS logo" />
+  <img src="https://img.shields.io/badge/ArcGIS-FF8C00?style=for-the-badge&logo=arcgis&logoColor=white" height="60" alt="ArcGIS logo" />
   <img src="https://img.icons8.com/color/48/000000/google-earth.png" height="60" alt="Google Earth Engine logo" />
   <img src="https://img.icons8.com/color/48/000000/ms-excel.png" height="60" alt="Excel logo" />
 </div>
