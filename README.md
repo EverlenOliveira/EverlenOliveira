@@ -1,13 +1,17 @@
-<h1 align="center">🌍👋🏻Olá, eu sou a Everlen
-Hi, I'm Everlen
+<h1 align="center">🌍👋🏻Olá, eu sou a Everlen 
+  
+  Hi, I'm Everlen
 
-🗺️ Graduanda em Geoprocessamento na Universidade Federal do Pará (UFPA)
+🗺️ Graduanda em Geoprocessamento na Universidade Federal do Pará (UFPA) 
+
 Undergraduate student in Geoprocessing at the Federal University of Pará (UFPA)
 
-📦 Técnica em Logística (SEST SENAT)
+📦 Técnica em Logística (SEST SENAT) 
+
 Technician in Logistics (SEST SENAT)
 
-💻 Em formação como Desenvolvedora Backend com Python através do programa Bolsa Futuro Digital (Softex/PE)
+💻 Em formação como Desenvolvedora Backend com Python através do programa Bolsa Futuro Digital (Softex/PE) 
+
 Currently training as a Backend Developer with Python through the Bolsa Futuro Digital Program (Softex/PE)</h1>
 
 ###
