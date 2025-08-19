@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=qgis" height="60" alt="qgis logo" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white=qgis" height="60" alt="qgis logo" />
   <img src="https://skillicons.dev/icons?i=arcgis" height="60" alt="arcgis logo" />
   <img src="https://skillicons.dev/icons?i=googleearth" height="60" alt="google earth engine logo" />
   <img src="https://skillicons.dev/icons?i=excel" height="60" alt="excel logo" />
